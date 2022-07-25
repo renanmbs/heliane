@@ -3208,6 +3208,24 @@
 
 		}
 
+		@media screen and (max-width: 1024px) {
+
+			footer h4{
+				color:#ededed;
+			}
+
+			#header h1{
+				font-size: 8vw;
+			}
+
+			#header h2{
+				font-size: 4vw;
+			}
+
+		}
+
+
+
 		footer .fa-whatsapp,.fa-phone, .fa-linkedin,  .fa-instagram, .fa-envelope-o{
 			color:#E18EB6 !important;
 		}
