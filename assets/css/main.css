@@ -2983,13 +2983,13 @@
 			#header h1{
 				color: #E18EB6;
 				font-size: 4vw;
-				text-shadow:5px 6px #000;
+				text-shadow:1px 1px #000;
 			}
 
 			#header h2{
 				color:#5FA391;
 				font-size: 3vw;
-				text-shadow:1px 3px #000;
+				text-shadow:1px 1px #000;
 			}
 
 	@media screen and (max-width: 1280px) {
@@ -3202,8 +3202,8 @@
 				padding: 1rem 0 0.1rem 0 ;
 			}
 
-			footer h2{
-				color:#5FA391;
+			footer h4{
+				color:#ededed;
 			}
 
 		}
